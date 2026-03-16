@@ -8,3 +8,4 @@ for (int i = 1; i < array.Length; i++)
     }
 }
 Console.WriteLine(max);
+// хых
